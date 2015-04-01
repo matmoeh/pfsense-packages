@@ -265,4 +265,3 @@ function check_nis_port_apcupsd(){
 }
 
 ?>
-
